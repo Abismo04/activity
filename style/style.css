@@ -1,0 +1,58 @@
+body{
+    margin: 0 auto; 
+    padding: 0 auto;
+}
+
+.Damang_1{
+    background-color: red;
+    width: auto;
+    height: 900px;
+    background-image: url(/img/golayat\ eating\ mickeymouse.jpg);
+    background-size: cover;
+}
+.Damang_image{
+    width: 450px;
+    height: 300px;
+    position: absolute;
+    margin-top: 500px;
+}
+
+.Window_1{
+    width: auto;
+    height: 900px;
+    background-color: rgba(29, 33, 33, 0.414);
+
+}
+
+.Golayat{
+    position: absolute;
+    margin-left:380px;
+    letter-spacing: 20px;
+}
+.Bird-Eater{
+    position: absolute;
+    margin-left:350px;
+    letter-spacing: 20px;
+    margin-top:55px;
+}
+
+
+.Documentation{
+    width: 900px;
+    height: 230px;
+    position: absolute;
+    margin-left: 270px;
+    margin-top:200px;
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+    letter-spacing: 2px;
+    padding-top: 380px;
+}
+
+.footer{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.437);
+    color: white;
+}
